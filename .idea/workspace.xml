@@ -21,6 +21,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\yiren\.android\avd\Pixel_API_28.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -49,7 +50,7 @@
     <property name="project.structure.last.edited" value="Suggestions" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="PsdUISettings">
     <option name="MODULE_TAB" value="Default Config" />
@@ -144,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626666953454</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="simple todo list steps 2.1-2.4">
+      <created>1626667100802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626667100802</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,15 +236,19 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2632" y="222" key="RollbackChangesDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1626666926658" />
-    <state x="220" y="0" key="SettingsEditor" timestamp="1626666995837">
+    <state x="220" y="0" key="SettingsEditor" timestamp="1626667174957">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="220" y="0" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1626666995837" />
+    <state x="220" y="0" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1626667174957" />
     <state x="2140" y="0" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1626666857998" />
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1626666808982">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2472" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1626666808982" />
+    <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1626667010324">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1626667010324" />
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1626662679952">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
